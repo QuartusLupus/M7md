@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>مشروع تقنية رقمية</title>
+</head>
+<body>
+    <!-- عنوان المشروع -->
+    <h1>مشروع تقنية رقمية</h1>
+    
+    <!-- النص باسمك -->
+    <p>الاسم: محمد الصبحاوي</p>
+    
+    <!-- النص بالشعبة -->
+    <p>الشعبة: شعبة 2</p>
+    
+    <!-- قائمةأنظمة التشغيل -->
+    <h2>أنواع أنظمة التشغيل:</h2>
+    <ul>
+        <li>ويندوز</li>
+        <li>لينكس</li>
+        <li>ماك</li>
+        <li>أندرويد</li>
+    </ul>
+    
+    <!-- قائم بأشهر الرياضات -->
+    <h2>أشهر الرياضات في العالم:</h2>
+    <ol>
+        <li>كرة القدم</li>
+        <li>الكريكيت</li>
+        <li>كرة السلة</li>
+        <li>التنس</li>
+    </ol>
+    
+    <!-- رابط لصفحة وزارة التعليم السعودية -->
+    <p><a href="https://www.moe.gov.sa" target="_blank">رابط وزارة التعليم السعودية</a></p>
+    
+    <img src="https://imgs.search.brave.com/aTjP0D1YYLzWAmIA_mw0bosFGs4Yqc0EVArWHQKEhTI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuYXJyYWpvbC5j/b20vdXNlcnMvdXNl/cjIyMzE0MS8lRDgl/QjQlRDglQjklRDgl/QTclRDglQjElMjAl/RDklODglRDglQjIl/RDglQTclRDglQjEl/RDglQTklMjAlRDgl/QTclRDklODQlRDgl/QUElRDglQjklRDkl/ODQlRDklOEElRDkl/ODUlMjAlRDglQTcl/RDklODQlRDglQUMl/RDglQUYlRDklOEEl/RDglQUYlMjAxNDQy/JTIwJUQ4JUE4JUQ4/JUFGJUQ5JTg4JUQ5/JTg2JTIwJUQ4JUFF/JUQ5JTg0JUQ5JTgx/JUQ5JThBJUQ4JUE5/LnBuZw" alt="وصف الصورة" width="العرض" height="الطول">
+
+</body>
+</html>
